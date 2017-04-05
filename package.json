@@ -5,10 +5,8 @@
     "dependencies": {
         "unirest": "*"
     }
-    "scripts": {
-  "start": "node index.js",
-  "postinstall": "bower install && grunt build"
 }
+"scripts": {
+  "start": "node index.js"
 }
-
 
