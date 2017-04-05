@@ -6,3 +6,8 @@
         "unirest": "*"
     }
 }
+
+"scripts": {
+  "start": "node index.js",
+  "postinstall": "bower install && grunt build"
+}
