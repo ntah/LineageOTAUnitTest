@@ -2,8 +2,8 @@
     "name": "CmOtaTest",
     "author": "Julian Xhokaxhiu <info@julianxhokaxhiu.com>",
     "description": "A LineageOS OTA Client Unit",
+    "start": "node index.js",
     "dependencies": {
         "unirest": "*"
     }
-    "start": "node index.js",
 }
