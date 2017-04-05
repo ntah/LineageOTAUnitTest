@@ -5,8 +5,7 @@
     "dependencies": {
         "unirest": "*"
     }
-}
 "scripts": {
   "start": "node index.js"
 }
-
+}
